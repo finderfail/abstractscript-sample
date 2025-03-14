@@ -1,0 +1,15 @@
+{
+  "name": "abstractscript-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "asc index.as"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "abstractscript": "^1.1.0"
+  }
+}
