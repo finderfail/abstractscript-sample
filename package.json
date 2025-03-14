@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "abstractscript": "^1.1.0"
+    "abstractscript": "^1.1.2"
   }
 }
