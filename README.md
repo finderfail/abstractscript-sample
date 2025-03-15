@@ -11,5 +11,5 @@ npm i
 or
 
 ```bash
-npm install -D abstractscript
+npm install abstractscript
 ```
