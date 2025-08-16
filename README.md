@@ -13,3 +13,7 @@ or
 ```bash
 npm install abstractscript
 ```
+
+```bash
+npm run build
+```

@@ -1,15 +1,15 @@
 {
   "name": "abstractscript-sample",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
-    "test": "asc index.as"
+    "build": "asc"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "abstractscript": "^1.1.2"
+    "abstractscript": "^1.4.7"
   }
 }
